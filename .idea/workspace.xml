@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db014931-4d27-4716-9394-b6984631aca1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UsZyt5yvi9Nzl7R4OoINVjw5J5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Upload">
+    <configuration name="Concu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cpm.test.upload.Concu" />
+      <module name="TransferProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpm.test.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Domain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cpm.test.upload.Domain" />
+      <module name="TransferProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpm.test.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cpm.test.upload.TestGet" />
+      <module name="TransferProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpm.test.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Upload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cpm.test.upload.Upload" />
+      <module name="TransferProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpm.test.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Upload" />
+        <item itemvalue="Application.Domain" />
+        <item itemvalue="Application.TestGet" />
+        <item itemvalue="Application.Concu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db014931-4d27-4716-9394-b6984631aca1" name="Default Changelist" comment="" />
+      <created>1576147520633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576147520633</updated>
+      <workItem from="1576147522981" duration="4524000" />
+      <workItem from="1576233133688" duration="608000" />
+      <workItem from="1576463148615" duration="543000" />
+      <workItem from="1583486977466" duration="26000" />
+      <workItem from="1583487512152" duration="3195000" />
+      <workItem from="1583837307457" duration="989000" />
+      <workItem from="1584943997407" duration="1299000" />
+      <workItem from="1589993775759" duration="21119000" />
+      <workItem from="1594017135557" duration="11000" />
+      <workItem from="1594794828096" duration="2393000" />
+      <workItem from="1594903328131" duration="28000" />
+      <workItem from="1594981877029" duration="5000" />
+      <workItem from="1595154884810" duration="1505000" />
+      <workItem from="1595328219087" duration="1134000" />
+      <workItem from="1597742877549" duration="55000" />
+      <workItem from="1598018933526" duration="1527000" />
+      <workItem from="1598842376595" duration="1267000" />
+      <workItem from="1600247703970" duration="550000" />
+      <workItem from="1600746054766" duration="1059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1636" height="201" key="GridCell.Tab.0.bottom" timestamp="1600324054036">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="201" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600324054036" />
+    <state width="1571" height="285" key="GridCell.Tab.0.bottom/65.23.1615.1027@65.23.1615.1027" timestamp="1595164407273" />
+    <state width="1587" height="300" key="GridCell.Tab.0.bottom/68.23.1612.1027/1680.23.1920.1057@68.23.1612.1027" timestamp="1598248859315" />
+    <state width="1636" height="201" key="GridCell.Tab.0.center" timestamp="1600324054033">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="201" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600324054033" />
+    <state width="1571" height="285" key="GridCell.Tab.0.center/65.23.1615.1027@65.23.1615.1027" timestamp="1595164407273" />
+    <state width="1587" height="300" key="GridCell.Tab.0.center/68.23.1612.1027/1680.23.1920.1057@68.23.1612.1027" timestamp="1598248859311" />
+    <state width="1636" height="201" key="GridCell.Tab.0.left" timestamp="1600324054032">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="201" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600324054032" />
+    <state width="1571" height="285" key="GridCell.Tab.0.left/65.23.1615.1027@65.23.1615.1027" timestamp="1595164407272" />
+    <state width="1587" height="300" key="GridCell.Tab.0.left/68.23.1612.1027/1680.23.1920.1057@68.23.1612.1027" timestamp="1598248859310" />
+    <state width="1636" height="201" key="GridCell.Tab.0.right" timestamp="1600324054035">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="201" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600324054035" />
+    <state width="1571" height="285" key="GridCell.Tab.0.right/65.23.1615.1027@65.23.1615.1027" timestamp="1595164407273" />
+    <state width="1587" height="300" key="GridCell.Tab.0.right/68.23.1612.1027/1680.23.1920.1057@68.23.1612.1027" timestamp="1598248859314" />
+    <state x="381" y="175" key="SettingsEditor" timestamp="1595156062876">
+      <screen x="65" y="23" width="1615" height="1027" />
+    </state>
+    <state x="381" y="175" key="SettingsEditor/65.23.1615.1027@65.23.1615.1027" timestamp="1595156062876" />
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598019140400">
+      <screen x="68" y="23" width="1612" height="1027" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/68.23.1612.1027@68.23.1612.1027" timestamp="1598019140400" />
+    <state x="540" y="298" width="667" height="476" key="find.popup" timestamp="1598944573639">
+      <screen x="68" y="23" width="1612" height="1027" />
+    </state>
+    <state x="540" y="298" width="667" height="476" key="find.popup/68.23.1612.1027/1680.23.1920.1057@68.23.1612.1027" timestamp="1598944573639" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cpm/test/upload/Domain.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cpm/test/upload/Domain.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/conn/DefaultRoutePlanner.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/InternalHttpClient.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
